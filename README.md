@@ -8,36 +8,35 @@
 - ⚡ Fun Fact: I always observe the world with curious eye's to understand the problems faced by the people to come up with creative solution.
 
 ### Connect with me:
-<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/behance.png">
-<img align="left" src="https://img.icons8.com/fluency/48/000000/gmail-new.png">
+<p>
+<img src="https://img.icons8.com/color/48/000000/linkedin.png">
+<img src="https://img.icons8.com/color/48/000000/behance.png">
+<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png">
+</p>
 
-
-<br>
-<br>
-<br>
 
 ### Languages and Tools:
-<img align="left" src="https://img.icons8.com/color/48/000000/flutter.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/css3.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/react-native.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-<img align="left" src="https://img.icons8.com/fluency/48/000000/python.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/figma--v1.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/firebase.png">
-<img align="left" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
-<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png">
-<br>
+<p>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" margin-right="10px">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" margin-right="10px">
+<img src="https://img.icons8.com/color/48/000000/css3.png" margin-right="10px">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/react-native.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" margin-right="5px">
+<img src="https://img.icons8.com/fluency/48/000000/python.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/firebase.png" margin-right="5px">
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" margin-right="5px">
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" margin-right="5px">
+</p>
+<hr>
 <br>
 
-<hr>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=HamzaKhan07&show_icons=true&hide_border=true&theme=cobalt">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HamzaKhan07&show_icons=true&hide_border=true&theme=cobalt">
 
 
 [linkedIn]: #
