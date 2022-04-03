@@ -8,11 +8,9 @@
 - ⚡ Fun Fact: I always observe the world with curious eye's to understand the problems faced by the people to come up with creative solution.
 
 ### Connect with me:
-<p>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png">][linkedIn]
-[<img src="https://img.icons8.com/color/48/000000/behance.png">][behance]
-[<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png">][gmail]
-</p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![behance](https://img.shields.io/badge/behance-1DA1F2?style=for-the-badge&logo=behance&logoColor=white)](https://behance.com/hamzakhan48208)
+[![gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakhan48208)
 
 
 ### Languages and Tools:
@@ -37,18 +35,6 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HamzaKhan07&show_icons=true&hide_border=true&theme=cobalt">
-
-
-[linkedIn]: #
-[behance]: behance.net/hamzakhan48208
-[gmail]: mailto:hamzakhan48208
-
-
-
-
-[mail]: hamzakhan48208@gmail.com
-[behance]: behance.net/hamzakhan48208
-[instagram]: instagram.com/hamzakhan48208
 
 <!---
 HamzaKhan07/HamzaKhan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
