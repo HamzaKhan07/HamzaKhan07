@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![behance](https://img.shields.io/badge/behance-1DA1F2?style=for-the-badge&logo=behance&logoColor=white)](https://behance.com/hamzakhan48208)
+[![behance](https://img.shields.io/badge/behance-1DA1F2?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/hamzakhan48208)
 [![gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakhan48208)
 
 
