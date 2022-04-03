@@ -32,8 +32,8 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png">
 <img align="left" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png">
-<br/>
-<br/>
+<br>
+<br>
 
 <hr>
 <br/>
