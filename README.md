@@ -9,9 +9,9 @@
 
 ### Connect with me:
 <p>
-<img src="https://img.icons8.com/color/48/000000/linkedin.png">
-<img src="https://img.icons8.com/color/48/000000/behance.png">
-<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png">
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png">][linkedIn]
+[<img src="https://img.icons8.com/color/48/000000/behance.png">][behance]
+[<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png">][gmail]
 </p>
 
 
