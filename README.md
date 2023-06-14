@@ -30,8 +30,7 @@
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" margin-right="5px">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" margin-right="5px">
 </p>
-<hr>
-<br>
+
 
 
 <!---
