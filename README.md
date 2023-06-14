@@ -34,8 +34,6 @@
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HamzaKhan07&show_icons=true&hide_border=true&theme=cobalt">
-
 <!---
 HamzaKhan07/HamzaKhan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
